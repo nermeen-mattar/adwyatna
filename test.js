@@ -5,5 +5,5 @@ function logStuff() {
 }
 
 function logStuff2() {
-    console.log('stuff2')
+    console.log('stuff2 changes')
 }

@@ -1,6 +1,6 @@
 console.log('hi');
 function logStuff() {
-    console.log('stuff')
+    console.log('hi')
 }
 
 function logStuff2() {

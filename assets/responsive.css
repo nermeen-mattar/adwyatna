@@ -1,1 +1,42 @@
 /*add your css code here*/
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+header .title {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards {
+    height: 300px;
+    width: 300px;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
